@@ -1,0 +1,15 @@
+
+  @media (max-width: 992px) {
+    .home {
+      height: auto;
+    }
+  
+    .box {
+      width: 100%;
+    }
+  
+    .box:hover {
+      width: 100%; 
+    }
+  }
+  
